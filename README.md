@@ -1,10 +1,10 @@
 <h1>🎲 Mega Sena React App</h1>
 
-<p>Uma aplicação simples em **ReactJS + TypeScript + Vite** que sorteia **6 números aleatórios da Mega Sena**. 🤑💰</p>
+<p>Uma aplicação simples em **ReactJS + TypeScript + Vite** que sorteia 6 números aleatórios da Mega Sena. 🤑💰</p>
 
 ---
 
-<h2></h2>## ✨ Funcionalidades
+<h2>## ✨ Funcionalidades</h2>
 
 <p>- 🎯 Sorteio de **6 números aleatórios**.</p>
 <p>- 🔄 Repetir sorteio quantas vezes quiser.</p>
@@ -13,7 +13,7 @@
 
 ---
 
-<h2></h2>## 🛠️ Tecnologias Utilizadas
+<h2>## 🛠️ Tecnologias Utilizadas</h2>
 
 <p>- ⚛️ ReactJS</p> 
 <p>- 💎 TypeScript</p>
