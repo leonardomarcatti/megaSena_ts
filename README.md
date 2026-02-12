@@ -46,8 +46,8 @@
 <p></p>http://ip:3000</p>
 
 <h3>🔹 Rodando em Desenvolvimento (Local)</h3>
-<p>npm install</p>
-<p>npm run dev -- --host 0.0.0.0 --port 3000</p>
+<p>pnpm install</p>
+<p>pnpm run dev -- --host 0.0.0.0 --port 3000</p>
 
 <h3>🎨 Layout</h3>
 <p>Uma interface simples e intuitiva.</p>
