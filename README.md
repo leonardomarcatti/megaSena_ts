@@ -21,16 +21,18 @@
 <p>- 🐳 Docker</p>
 <p>- 🎨 CSS (ou Tailwind, caso use)</p>
 
----
+<h2>Screenshots</h2>
+
+<img src='https://github.com/user-attachments/assets/32be1fb7-6e4c-438b-83a6-afbeb653b7e0' />
 
 <h2>## 🚀 Como Rodar</h2>
 
-<h3>### 🔹 Pré-requisitos</h3>
+<h3>🔹 Pré-requisitos</h3>
 
 <p>- [Docker](https://www.docker.com/get-started) instalado</p>
 <p>- [Node.js](https://nodejs.org/) (opcional para desenvolvimento local sem Docker)</p>
 
-<h3>### 🔹 Rodando com Docker</h3>
+<h3>🔹 Rodando com Docker</h3>
 
 <p><b>1. Clone o repositório:</b></p>
 <p>git clone https://github.com/leonardomarcattidasilva/megaSena_ts.git</p>
